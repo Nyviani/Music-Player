@@ -22,22 +22,7 @@ Add your own **MP3**, **FLAC**, **M4A**, or **WAV** files. Nothing is uploaded t
 
 > Best in a recent Chrome, Safari, Firefox, or Edge. FLAC support depends on the browser.
 
-## Hosting
-
-This is a single static `index.html` file. You can host it on any static host:
-
-- [GitHub Pages](https://pages.github.com/)
-- Netlify
-- Cloudflare Pages
-
-On GitHub Pages, put the player at the repo root as `index.html`, then enable **Settings → Pages** (branch: `main`, folder: `/ root`).
-
-Each visitor’s music is stored only in **their** browser.
-
 ## Privacy
 
 Audio and metadata never leave the device. Clearing site data removes the library.
 
-## License
-
-Free to use and modify for personal projects.
